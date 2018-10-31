@@ -1,0 +1,73 @@
+1 event many places
+1 place many event
+
+details
+ - name
+ - address
+ - contact no
+ - email
+
+venue(s)
+ - address
+
+type
+ - official 
+	- business deal/meeting/
+ 	- number of ppl
+ 	- number of days
+ - unofficial
+	- marriage/gettogether
+	- number of ppl
+	- number of days
+price
+ - high budget 
+ - moderate budget
+ - lesser budget
+
+food
+ - catering
+ - what food - types
+ - number of ppl
+ - budget
+ - total price
+
+events
+ - games
+ - music/dance
+ - talk
+ - tour (family/clg)
+
+special ppl
+ - special employees
+ - vips
+ - chief guest
+	- name
+	- designation/company
+room
+ - number
+ - days
+ - budget (ac/nonac)
+ - total price
+ - availability
+
+transportation
+ - bus/car/taxi
+ - number of ppl
+ - budget
+ - total price
+ - availability
+
+photography
+ - budget
+ - number of days
+
+extras
+ - materials
+ - decorations
+
+costumes
+ - beautician
+ - dress code
+ 	- number of people
+	- colour/code
+
