@@ -1,3 +1,5 @@
+This is the DBMS Mini-Project of Semester 5
+
 1 event many places
 1 place many event
 
